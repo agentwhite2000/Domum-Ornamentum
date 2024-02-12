@@ -55,7 +55,7 @@ public class AllBrickBlock extends AbstractBlock<AllBrickBlock> implements IMate
     /**
      * The hardness this block has.
      */
-    private static final float                      BLOCK_HARDNESS = 3F;
+    private static final float                      BLOCK_HARDNESS = 2F;
 
     /**
      * The resistance this block has.
